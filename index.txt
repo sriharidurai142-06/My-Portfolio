@@ -1,0 +1,110 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Srihari D
+Srihari D
+senior process associate
+
+Show Contacts
+
+Email
+sriharidurai141@gmail.com
+
+Birthday
+June 14,2001
+
+Location
+Townhall, Coimbatore, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a motivated and technically skilled professional with a Bachelor’s degree in Computer Applications and 3 years of hands-on experience in process management and operational support. Currently working as a Senior Process Associate at I-Cons Technologies, I bring a strong foundation in programming, data handling, and workflow optimization, combined with an ability to adapt quickly to new tools and challenges.
+
+My professional journey has equipped me with expertise in MS Office Suite, SQL, C, Python, and basic Adobe Photoshop, along with valuable experience in e-commerce operations, image annotation, and digital asset management. I take pride in delivering accurate, high-quality results while ensuring efficiency and meeting deadlines in fast-paced environments.
+
+I believe in continuous learning and strive to enhance my skills while contributing to organizational growth. With a problem-solving mindset, attention to detail, and a passion for technology-driven solutions, I aim to create a positive impact in every project I undertake.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Process Optimization & Support
+
+I specialize in streamlining workflows and enhancing operational efficiency by identifying process gaps and implementing effective solutions. My focus is on delivering consistent support that ensures smooth day-to-day operations while maintaining high-quality standards. I take a proactive approach to problem-solving, helping teams achieve better productivity and reduced turnaround times.
+
+
+alt = Web development icon
+Data Management & Analysis
+With strong skills in organizing and maintaining accurate datasets, I ensure that information is reliable and easily accessible for business needs. I analyze data to uncover trends, patterns, and opportunities, providing valuable insights that support informed decision-making. My structured and detail-oriented approach helps maintain data integrity across all processes.
+
+
+alt = mobile app icon
+E-Commerce Operations
+I have hands-on experience in managing the complete e-commerce process, including product listing, inventory coordination, and order management. My role involves ensuring all product details, pricing, and availability are up-to-date to deliver a seamless online shopping experience. I work to optimize backend processes, enhancing both efficiency and customer satisfaction.
+
+
+alt = camera icon
+Content & Digital Asset Management
+I am adept at creating, updating, and organizing content in alignment with branding and marketing goals. My experience includes managing digital assets to ensure easy accessibility and consistent presentation across multiple platforms. I take pride in delivering timely, accurate, and engaging content that strengthens brand identity.
+
+# resume
+
+Resume
+
+Education
+
+VLB JANAKIAMMAL College of Arts and Science, Coimbatore.
+2019 — 2022
+Bachelor of Computer Applications (BCA)
+
+CSI Boys Higher Secondary School, Coimbatore
+2018 — 2019
+Higher Secondary
+
+CSI Boys Higher Secondary School, Coimbatore
+2016 — 2017
+Secondary School Leaving Certificate
+
+Experience
+
+Senior Process Associate
+2024 — Present
+
+Process Associate
+2022 — 2024
+
+My skills
+
+Data Analysis & Reporting
+80%
+Photoshop
+60%
+E-Commerce Operations
+90%
+WordPress
+50%
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
